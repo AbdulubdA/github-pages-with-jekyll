@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Secondary income"
 ---
 
-I'm glad you are here. I plan to talk about ...
+The beginning
