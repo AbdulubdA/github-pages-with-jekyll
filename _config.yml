@@ -1,4 +1,5 @@
-title: Time to get the money then the women then the power
+---
+title: "Time to get the money then the women then the power"
 date: 2021-05-10
 author: GitHub User
 email: your-email@domain.com
@@ -13,3 +14,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
